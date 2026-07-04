@@ -9,7 +9,7 @@ Thank you for your interest in contributing! This guide will help you get starte
 1. Fork the repository
 2. Open `data/portfolios.json`
 3. Add a new entry in the following format:
-   ```json
+ ```json
    {
      "name": "Full Name",
      "url": "https://example.com",
@@ -17,10 +17,10 @@ Thank you for your interest in contributing! This guide will help you get starte
    }
    ```
 4. Make sure:
-   - The URL is a valid, live personal portfolio website
-   - The name is the real name of the portfolio owner
-   - The tagline accurately describes the person's role (optional but encouraged)
-   - The entry doesn't already exist in the file
+ - The URL is a valid, live personal portfolio website
+ - The name is the real name of the portfolio owner
+ - The tagline accurately describes the person's role (optional but encouraged)
+ - The entry doesn't already exist in the file
 5. Submit a pull request
 
 ### Report a Bug
