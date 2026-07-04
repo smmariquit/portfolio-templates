@@ -1,6 +1,6 @@
 ## What does this PR do?
 
-<!-- Briefly describe the changes -->
+<!, Briefly describe the changes, >
 
 ## Type of Change
 
@@ -20,4 +20,4 @@
 
 ## Screenshots (if applicable)
 
-<!-- Add screenshots to show visual changes -->
+<!, Add screenshots to show visual changes, >
