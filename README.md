@@ -1,14 +1,14 @@
 <p align="center">
-  <h1 align="center">Portfolio Templates</h1>
-  <p align="center">
-    A curated, open-source collection of <strong>1,080+</strong> personal portfolio websites for inspiration and discovery.
-  </p>
-  <p align="center">
-    <a href="https://github.com/kousikkaranam/portfolio-templates/stargazers"><img src="https://img.shields.io/github/stars/kousikkaranam/portfolio-templates?style=flat-square" alt="Stars"></a>
-    <a href="https://github.com/kousikkaranam/portfolio-templates/network/members"><img src="https://img.shields.io/github/forks/kousikkaranam/portfolio-templates?style=flat-square" alt="Forks"></a>
-    <a href="https://github.com/kousikkaranam/portfolio-templates/issues"><img src="https://img.shields.io/github/issues/kousikkaranam/portfolio-templates?style=flat-square" alt="Issues"></a>
-    <a href="LICENSE"><img src="https://img.shields.io/github/license/kousikkaranam/portfolio-templates?style=flat-square" alt="License"></a>
-  </p>
+ <h1 align="center">Portfolio Templates</h1>
+ <p align="center">
+ A curated, open-source collection of <strong>1,080+</strong> personal portfolio websites for inspiration and discovery.
+ </p>
+ <p align="center">
+ <a href="https://github.com/kousikkaranam/portfolio-templates/stargazers"><img src="https://img.shields.io/github/stars/kousikkaranam/portfolio-templates?style=flat-square" alt="Stars"></a>
+ <a href="https://github.com/kousikkaranam/portfolio-templates/network/members"><img src="https://img.shields.io/github/forks/kousikkaranam/portfolio-templates?style=flat-square" alt="Forks"></a>
+ <a href="https://github.com/kousikkaranam/portfolio-templates/issues"><img src="https://img.shields.io/github/issues/kousikkaranam/portfolio-templates?style=flat-square" alt="Issues"></a>
+ <a href="LICENSE"><img src="https://img.shields.io/github/license/kousikkaranam/portfolio-templates?style=flat-square" alt="License"></a>
+ </p>
 </p>
 
 ---
@@ -17,22 +17,22 @@
 
 **Portfolio Templates** is a searchable gallery of 1,080+ real developer and professional portfolio websites. Browse, search, and filter through portfolios to find design inspiration for your own personal site.
 
-Built with pure HTML, CSS, and JavaScript -- no frameworks, no dependencies, no build step.
+Built with pure HTML, CSS, and JavaScript, no frameworks, no dependencies, no build step.
 
 ### Features
 
-- **1,080+ Portfolios** -- Curated collection with live website previews
-- **Search** -- Find portfolios by name, role, or keywords
-- **Alphabetical Filter** -- Quick A-Z navigation
-- **Role Filter** -- Filter by profession (Full Stack Developer, UX Designer, AI Engineer, etc.)
-- **Responsive Design** -- Works on desktop, tablet, and mobile
-- **Lazy Loading** -- Images load on scroll for fast performance
-- **Zero Dependencies** -- Pure vanilla HTML/CSS/JS
+- **1,080+ Portfolios**, Curated collection with live website previews
+- **Search**, Find portfolios by name, role, or keywords
+- **Alphabetical Filter**, Quick A-Z navigation
+- **Role Filter**, Filter by profession (Full Stack Developer, UX Designer, AI Engineer, etc.)
+- **Responsive Design**, Works on desktop, tablet, and mobile
+- **Lazy Loading**, Images load on scroll for fast performance
+- **Zero Dependencies**, Pure vanilla HTML/CSS/JS
 
 ## Demo
 
 <p align="center">
-  <img src="https://image.thum.io/get/width/1200/https://kousikkaranam.github.io/portfolio-templates/" alt="Portfolio Templates Screenshot" width="700">
+ <img src="https://image.thum.io/get/width/1200/https://kousikkaranam.github.io/portfolio-templates/" alt="Portfolio Templates Screenshot" width="700">
 </p>
 
 ## Getting Started
@@ -46,14 +46,14 @@ Built with pure HTML, CSS, and JavaScript -- no frameworks, no dependencies, no 
 
 1. **Clone the repository**
 
-   ```bash
+ ```bash
    git clone https://github.com/kousikkaranam/portfolio-templates.git
    cd portfolio-templates
    ```
 
 2. **Start a local server** (pick any method)
 
-   ```bash
+ ```bash
    # Python
    python -m http.server 8000
 
@@ -66,7 +66,7 @@ Built with pure HTML, CSS, and JavaScript -- no frameworks, no dependencies, no 
 
 3. **Open in browser**
 
-   ```
+ ```
    http://localhost:8000
    ```
 
@@ -127,7 +127,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a pull request.
 
 1. Fork the repo
 2. Edit `data/portfolios.json` and add an entry:
-   ```json
+ ```json
    {
      "name": "Your Name",
      "url": "https://yoursite.com",
@@ -165,5 +165,5 @@ Distributed under the **MIT License**. See [LICENSE](LICENSE) for details.
 ---
 
 <p align="center">
-  If you found this useful, please consider giving it a <strong>star</strong>!
+ If you found this useful, please consider giving it a <strong>star</strong>!
 </p>
